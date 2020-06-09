@@ -33,5 +33,7 @@ public class SeleniumTest {
 		
 		System.out.println("tools04");
 		System.out.println("tools05");
+		System.out.println("tools05");
+		System.out.println("tools05");
 	}
 }
